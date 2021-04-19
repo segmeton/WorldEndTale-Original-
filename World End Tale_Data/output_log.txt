@@ -1,0 +1,54 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M   (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AA\skripsi\Skripsi World End Tale\World End Tale\World End Tale_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AA\skripsi\Skripsi World End Tale\World End Tale\World End Tale_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AA\skripsi\Skripsi World End Tale\World End Tale\World End Tale_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AA\skripsi\Skripsi World End Tale\World End Tale\World End Tale_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.796 seconds
+desktop: 1600x900 60Hz; virtual: 2966x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\AA\skripsi\Skripsi World End Tale\World End Tale\World End Tale_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: D:\AA\skripsi\Skripsi World End Tale\World End Tale\World End Tale_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.619392 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 214.
+Total: 4.404470 ms (FindLiveObjects: 0.024989 ms CreateObjectMapping: 0.024097 ms MarkObjects: 1.356594 ms  DeleteObjects: 1.368643 ms)
+
+UnloadTime: 0.348519 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.996918 ms (FindLiveObjects: 0.008924 ms CreateObjectMapping: 0.007586 ms MarkObjects: 0.503368 ms  DeleteObjects: 0.008924 ms)
+
+UnloadTime: 0.361014 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 1.029048 ms (FindLiveObjects: 0.007586 ms CreateObjectMapping: 0.007586 ms MarkObjects: 0.525680 ms  DeleteObjects: 0.011602 ms)
+
+UnloadTime: 0.334239 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 223.
+Total: 1.345438 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.009371 ms MarkObjects: 0.718013 ms  DeleteObjects: 0.011156 ms)
+
+UnloadTime: 0.677404 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 3.253596 ms (FindLiveObjects: 0.058904 ms CreateObjectMapping: 0.076308 ms MarkObjects: 1.700205 ms  DeleteObjects: 0.033468 ms)
+
+UnloadTime: 0.594402 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 3.645848 ms (FindLiveObjects: 0.025436 ms CreateObjectMapping: 0.024543 ms MarkObjects: 1.400327 ms  DeleteObjects: 0.784504 ms)
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Base%20Stats.xsd" generated="2014-11-30T20:42:42">
+<Base_x0020_Stats>
+<ID>CH01</ID>
+<Name>Cecil</Name>
+<HP>100</HP>
+<MP>40</MP>
+<STR>12</STR>
+<END>8</END>
+<MAG>10</MAG>
+<AGI>10</AGI>
+<ACC>5</ACC>
+</Base_x0020_Stats>
+<Base_x0020_Stats>
+<ID>CH02</ID>
+<Name>Limca</Name>
+<HP>80</HP>
+<MP>60</MP>
+<STR>7</STR>
+<END>5</END>
+<MAG>13</MAG>
+<AGI>12</AGI>
+<ACC>7</ACC>
+</Base_x0020_Stats>
+<Base_x0020_Stats>
+<ID>CH03</ID>
+<Name>Galard</Name>
+<HP>120</HP>
+<MP>20</MP>
+<STR>15</STR>
+<END>10</END>
+<MAG>5</MAG>
+<AGI>8</AGI>
+<ACC>4</ACC>
+</Base_x0020_Stats>
+</dataroot>

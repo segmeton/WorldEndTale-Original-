@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Weapon.xsd" generated="2014-11-30T21:53:30">
+<Weapon>
+<ID>WP01</ID>
+<Name>Iron Sword</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>150</Sell_x0020_Price>
+<STR>5</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A basic sword for every aspiring swordman.</Description>
+</Weapon>
+<Weapon>
+<ID>WP02</ID>
+<Name>Gem Sword</Name>
+<Buy_x0020_Price>1000</Buy_x0020_Price>
+<Sell_x0020_Price>500</Sell_x0020_Price>
+<STR>15</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>5</AGI>
+<ACC>0</ACC>
+<Description>An upgraded sword enchanced by several gemstone.</Description>
+</Weapon>
+<Weapon>
+<ID>WP03</ID>
+<Name>Damascus Blade</Name>
+<Buy_x0020_Price>3000</Buy_x0020_Price>
+<Sell_x0020_Price>1500</Sell_x0020_Price>
+<STR>35</STR>
+<MAG>0</MAG>s
+<END>0</END>
+<AGI>10</AGI>
+<ACC>0</ACC>
+<Description>A sword made from the best ore.</Description>
+</Weapon>
+<Weapon>
+<ID>WP04</ID>
+<Name>Sword of Oath</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>1</Sell_x0020_Price>
+<STR>100</STR>
+<MAG>50</MAG>
+<END>50</END>
+<AGI>20</AGI>
+<ACC>15</ACC>
+<Description>Proof of Relationship between a hero and his comrades.</Description>
+</Weapon>
+<Weapon>
+<ID>WP05</ID>
+<Name>Staff</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>150</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>7</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>Crudely made staff. Used by novice adventurers.</Description>
+</Weapon>
+<Weapon>
+<ID>WP06</ID>
+<Name>Holy Staff</Name>
+<Buy_x0020_Price>1000</Buy_x0020_Price>
+<Sell_x0020_Price>500</Sell_x0020_Price>
+<STR>2</STR>
+<MAG>20</MAG>
+<END>0</END>
+<AGI>5</AGI>
+<ACC>0</ACC>
+<Description>A staff blessed by the Goddess of Healing.</Description>
+</Weapon>
+<Weapon>
+<ID>WP07</ID>
+<Name>Diamond Staff</Name>
+<Buy_x0020_Price>3000</Buy_x0020_Price>
+<Sell_x0020_Price>1500</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>45</MAG>
+<END>5</END>
+<AGI>10</AGI>
+<ACC>0</ACC>
+<Description>A very precious staff used by sages in the past.</Description>
+</Weapon>
+<Weapon>
+<ID>WP08</ID>
+<Name>Rod of Yggdrasil</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>1</Sell_x0020_Price>
+<STR>40</STR>
+<MAG>100</MAG>
+<END>20</END>
+<AGI>30</AGI>
+<ACC>10</ACC>
+<Description>A staff made from a branch of the Legendary Life Tree.</Description>
+</Weapon>
+<Weapon>
+<ID>WP09</ID>
+<Name>Spear</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>150</Sell_x0020_Price>
+<STR>10</STR>
+<MAG>0</MAG>
+<END>5</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A basic weapon for every knight.</Description>
+</Weapon>
+<Weapon>
+<ID>WP10</ID>
+<Name>Lance</Name>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>175</Sell_x0020_Price>
+<STR>20</STR>
+<MAG>0</MAG>
+<END>10</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A spear with reinforced steel as its head.</Description>
+</Weapon>
+<Weapon>
+<ID>WP11</ID>
+<Name>Trident</Name>
+<Buy_x0020_Price>3000</Buy_x0020_Price>
+<Sell_x0020_Price>1500</Sell_x0020_Price>
+<STR>45</STR>
+<MAG>0</MAG>
+<END>20</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A spear with 3 point for maximum damage</Description>
+</Weapon>
+<Weapon>
+<ID>WP12</ID>
+<Name>Legendary Spear</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>1</Sell_x0020_Price>
+<STR>120</STR>
+<MAG>0</MAG>
+<END>80</END>
+<AGI>0</AGI>
+<ACC>10</ACC>
+<Description>A spear used by a legendary hero in the past</Description>
+</Weapon>
+</dataroot>

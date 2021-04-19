@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Item.xsd" generated="2015-01-18T16:15:02">
+<Item>
+<ID>IT01</ID>
+<Name>Potion</Name>
+<Type>Health</Type>
+<Description>Recover 30% of max HP.</Description>
+<Buy_x0020_Price>100</Buy_x0020_Price>
+<Sell_x0020_Price>50</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT02</ID>
+<Name>High Potion</Name>
+<Type>Health</Type>
+<Description>Recover 60% of max HP.</Description>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT03</ID>
+<Name>Full Potion</Name>
+<Type>Health</Type>
+<Description>Recover all HP.</Description>
+<Buy_x0020_Price>1000</Buy_x0020_Price>
+<Sell_x0020_Price>500</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT04</ID>
+<Name>Revitalizer</Name>
+<Type>Mana</Type>
+<Description>Recover 30% of max MP.</Description>
+<Buy_x0020_Price>150</Buy_x0020_Price>
+<Sell_x0020_Price>75</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT05</ID>
+<Name>High Revitalizer</Name>
+<Type>Mana</Type>
+<Description>Recover 60% of max MP.</Description>
+<Buy_x0020_Price>700</Buy_x0020_Price>
+<Sell_x0020_Price>350</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT06</ID>
+<Name>Full Revitalizer</Name>
+<Type>Mana</Type>
+<Description>Recover all MP.</Description>
+<Buy_x0020_Price>1500</Buy_x0020_Price>
+<Sell_x0020_Price>750</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT07</ID>
+<Name>Antidote</Name>
+<Type>Status</Type>
+<Description>Cures poison</Description>
+<Buy_x0020_Price>50</Buy_x0020_Price>
+<Sell_x0020_Price>25</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT08</ID>
+<Name>Serum</Name>
+<Type>Status</Type>
+<Description>Cures Paralyze</Description>
+<Buy_x0020_Price>50</Buy_x0020_Price>
+<Sell_x0020_Price>25</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT09</ID>
+<Name>Sacred Powder</Name>
+<Type>Status</Type>
+<Description>Cures all status effects</Description>
+<Buy_x0020_Price>200</Buy_x0020_Price>
+<Sell_x0020_Price>100</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT10</ID>
+<Name>Soma</Name>
+<Type>Special</Type>
+<Description>Recover All HP, MP, and cure all status</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>1000</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT11</ID>
+<Name>Phoenix Tear</Name>
+<Type>Special</Type>
+<Description>Revive one character with 50% HP</Description>
+<Buy_x0020_Price>750</Buy_x0020_Price>
+<Sell_x0020_Price>375</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT12</ID>
+<Name>Elixir</Name>
+<Type>Special</Type>
+<Description>Revive one character with 100% HP</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>2000</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT13</ID>
+<Name>Town Portal</Name>
+<Type>Special</Type>
+<Description>Go back to town instantly</Description>
+<Buy_x0020_Price>200</Buy_x0020_Price>
+<Sell_x0020_Price>100</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT14</ID>
+<Name>Blue Gel</Name>
+<Type>Miscellaneous</Type>
+<Description>Gel dropped from slime. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>10</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT15</ID>
+<Name>Rotten Teeth</Name>
+<Type>Miscellaneous</Type>
+<Description>Teeth of a rotten zombie. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>10</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT16</ID>
+<Name>Plain Cloth</Name>
+<Type>Miscellaneous</Type>
+<Description>Just a plain cloth. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>15</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT17</ID>
+<Name>Tiger Fur</Name>
+<Type>Miscellaneous</Type>
+<Description>Fur of a fierce tiger. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>30</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT18</ID>
+<Name>Broken Weapon</Name>
+<Type>Miscellaneous</Type>
+<Description>A weapon that has been used too much. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>35</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT19</ID>
+<Name>Liquid Poison</Name>
+<Type>Miscellaneous</Type>
+<Description>A very nasty poison. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>40</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT20</ID>
+<Name>White Feather</Name>
+<Type>Miscellaneous</Type>
+<Description>A pure white colored feather. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>50</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT21</ID>
+<Name>Chipped Axe</Name>
+<Type>Miscellaneous</Type>
+<Description>An axe used by executioner in old times. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>60</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT22</ID>
+<Name>Black Ash</Name>
+<Type>Miscellaneous</Type>
+<Description>A blackened ash. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>65</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT23</ID>
+<Name>Broken Scale</Name>
+<Type>Miscellaneous</Type>
+<Description>A broken scale. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>70</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT24</ID>
+<Name>Steel Claw</Name>
+<Type>Miscellaneous</Type>
+<Description>A claw as hard as steel. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>90</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT25</ID>
+<Name>Rotten Bone</Name>
+<Type>Miscellaneous</Type>
+<Description>A bone of zombie. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>120</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT26</ID>
+<Name>Dragon Bone</Name>
+<Type>Miscellaneous</Type>
+<Description>A legendary creature&apos;s bone. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>150</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT27</ID>
+<Name>Ball and Chain</Name>
+<Type>Miscellaneous</Type>
+<Description>A prisoner&apos;s accessory. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>300</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT28</ID>
+<Name>Azure Plate</Name>
+<Type>Miscellaneous</Type>
+<Description>A plate of a scale. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>350</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT29</ID>
+<Name>Blazing Core</Name>
+<Type>Miscellaneous</Type>
+<Description>An eternally blazing core. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>400</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT30</ID>
+<Name>Colorful Ball</Name>
+<Type>Miscellaneous</Type>
+<Description>A soft, colorful ball. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>150</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT31</ID>
+<Name>Black Heart</Name>
+<Type>Miscellaneous</Type>
+<Description>A blackened heart of a corrupted being. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>200</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT32</ID>
+<Name>Ectoplasm</Name>
+<Type>Miscellaneous</Type>
+<Description>A core of a spirit. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>300</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT33</ID>
+<Name>Lightning Gem</Name>
+<Type>Miscellaneous</Type>
+<Description>Gem that contains the essence of lightning. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>400</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT34</ID>
+<Name>Cursed Sword</Name>
+<Type>Miscellaneous</Type>
+<Description>A cursed sword that thirst for blood. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>450</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT35</ID>
+<Name>Dragon Heart</Name>
+<Type>Miscellaneous</Type>
+<Description>A heart of a legendary creature. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>600</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT36</ID>
+<Name>Jack&apos;s Clothes</Name>
+<Type>Miscellaneous</Type>
+<Description>Clothes that can&apos;t get burned. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>750</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT37</ID>
+<Name>Eye of Truth</Name>
+<Type>Miscellaneous</Type>
+<Description>The eye that can see through lies. Very rare. For sell.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>900</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT38</ID>
+<Name>Last Requiem</Name>
+<Type>Miscellaneous</Type>
+<Description>The last wish of a forsaken entity.</Description>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>1</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT39</ID>
+<Name>Grimoire</Name>
+<Type>Gift</Type>
+<Description>A dangerous book containing forbidden knowledge.</Description>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT40</ID>
+<Name>Necronomicon</Name>
+<Type>Gift</Type>
+<Description>A book only those with obsession towards demonic things read. Very creepy.</Description>
+<Buy_x0020_Price>2000</Buy_x0020_Price>
+<Sell_x0020_Price>1000</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT41</ID>
+<Name>Pack of Sweet</Name>
+<Type>Gift</Type>
+<Description>A pack of famous snack that all sweet tooth likes.</Description>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT42</ID>
+<Name>Candy Bucket</Name>
+<Type>Gift</Type>
+<Description>A bucketfull of delicious sweets. Guaranteed to make any sweet lovers cry tears of happiness.</Description>
+<Buy_x0020_Price>2000</Buy_x0020_Price>
+<Sell_x0020_Price>1000</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT43</ID>
+<Name>Ancient Tablet</Name>
+<Type>Gift</Type>
+<Description>An ancient tablet from old civilization. Favorite of all history lovers.</Description>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+</Item>
+<Item>
+<ID>IT44</ID>
+<Name>Antique Collection</Name>
+<Type>Gift</Type>
+<Description>A very rare stuff. A must have for every Antique Collectors.</Description>
+<Buy_x0020_Price>2000</Buy_x0020_Price>
+<Sell_x0020_Price>1000</Sell_x0020_Price>
+</Item>
+</dataroot>

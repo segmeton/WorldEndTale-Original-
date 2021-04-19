@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: d23f2f1750b6c6b419c3e3a596c8a213
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_0
+    21300002: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_1
+    21300004: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_2
+    21300006: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_3
+    21300008: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_4
+    21300010: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_5
+    21300012: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_6
+    21300014: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_7
+    21300016: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_8
+    21300018: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_9
+    21300020: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_10
+    21300022: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_11
+    21300024: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_12
+    21300026: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_13
+    21300028: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_14
+    21300030: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_Male_12_514_00_00_514_11_121_00_00_00_00_ 00_50_XP_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

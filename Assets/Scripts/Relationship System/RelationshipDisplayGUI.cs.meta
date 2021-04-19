@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 412a68051bd375f4a865012062850224
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cecilSprite: {instanceID: 0}
+  - limcaSprite: {fileID: 2800000, guid: 74ce83652505788428b0efea74a1a1d0, type: 3}
+  - galardSprite: {instanceID: 0}
+  - ignaSprite: {instanceID: 0}
+  - xelvariaSprite: {fileID: 2800000, guid: 79d7b54fddfbe7345b9b6145f22e2350, type: 3}
+  - feilongSprite: {instanceID: 0}
+  - emptyTex: {instanceID: 0}
+  - fullTex: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Growth.xsd" generated="2014-11-30T20:54:06">
+<Growth>
+<ID>CH01</ID>
+<Name>Cecil</Name>
+<HP>15</HP>
+<MP>12</MP>
+<STR>7</STR>
+<END>6</END>
+<MAG>7</MAG>
+<AGI>4</AGI>
+<ACC>3</ACC>
+</Growth>
+<Growth>
+<ID>CH02</ID>
+<Name>Limca</Name>
+<HP>12</HP>
+<MP>15</MP>
+<STR>4</STR>
+<END>4</END>
+<MAG>10</MAG>
+<AGI>6</AGI>
+<ACC>4</ACC>
+</Growth>
+<Growth>
+<ID>CH03</ID>
+<Name>Galard</Name>
+<HP>20</HP>
+<MP>8</MP>
+<STR>9</STR>
+<END>8</END>
+<MAG>3</MAG>
+<AGI>3</AGI>
+<ACC>2</ACC>
+</Growth>
+</dataroot>

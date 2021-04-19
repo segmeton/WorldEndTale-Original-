@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Accessory.xsd" generated="2014-11-30T21:48:46">
+<Accessory>
+<ID>AC01</ID>
+<Name>Enchanted Ring</Name>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+<STR>5</STR>
+<MAG>5</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A ring enchanted by a Mage</Description>
+</Accessory>
+<Accessory>
+<ID>AC02</ID>
+<Name>Targeting Scope</Name>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>5</ACC>
+<Description>Scope to see in more detail</Description>
+</Accessory>
+<Accessory>
+<ID>AC03</ID>
+<Name>Iron Bracelet</Name>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>10</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A bracelet made of iron</Description>
+</Accessory>
+<Accessory>
+<ID>AC04</ID>
+<Name>Crystal Necklace</Name>
+<Buy_x0020_Price>500</Buy_x0020_Price>
+<Sell_x0020_Price>250</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>10</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>Necklace with little crystal attached</Description>
+</Accessory>
+<Accessory>
+<ID>AC05</ID>
+<Name>Enchancer Gem</Name>
+<Buy_x0020_Price>1500</Buy_x0020_Price>
+<Sell_x0020_Price>750</Sell_x0020_Price>
+<STR>10</STR>
+<MAG>10</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A gem enchanted by a Mage</Description>
+</Accessory>
+<Accessory>
+<ID>AC06</ID>
+<Name>Surefire Glasses</Name>
+<Buy_x0020_Price>1500</Buy_x0020_Price>
+<Sell_x0020_Price>750</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>10</ACC>
+<Description>Glasses to see in more detail</Description>
+</Accessory>
+<Accessory>
+<ID>AC07</ID>
+<Name>Steel Shield</Name>
+<Buy_x0020_Price>1500</Buy_x0020_Price>
+<Sell_x0020_Price>750</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>20</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>A very hard shield made from Steel</Description>
+</Accessory>
+<Accessory>
+<ID>AC08</ID>
+<Name>Magic Amulet</Name>
+<Buy_x0020_Price>1500</Buy_x0020_Price>
+<Sell_x0020_Price>750</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>20</MAG>
+<END>0</END>
+<AGI>0</AGI>
+<ACC>0</ACC>
+<Description>Amulet with little crystal attached</Description>
+</Accessory>
+<Accessory>
+<ID>AC09</ID>
+<Name>Devil&apos;s Rosary</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>2500</Sell_x0020_Price>
+<STR>20</STR>
+<MAG>20</MAG>
+<END>20</END>
+<AGI>20</AGI>
+<ACC>20</ACC>
+<Description>A memento of a best friend</Description>
+</Accessory>
+<Accessory>
+<ID>AC10</ID>
+<Name>Crystal Ball</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>2000</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>30</MAG>
+<END>0</END>
+<AGI>30</AGI>
+<ACC>30</ACC>
+<Description>A pure lump of crystal that has divination power</Description>
+</Accessory>
+<Accessory>
+<ID>AC11</ID>
+<Name>Impenetrable Shield</Name>
+<Buy_x0020_Price>0</Buy_x0020_Price>
+<Sell_x0020_Price>2000</Sell_x0020_Price>
+<STR>30</STR>
+<MAG>0</MAG>
+<END>30</END>
+<AGI>10</AGI>
+<ACC>20</ACC>
+<Description>A shield said to be the strongest in the world</Description>
+</Accessory>
+</dataroot>

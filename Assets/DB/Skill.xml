@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Skill.xsd" generated="2015-02-05T13:33:57">
+<Skill>
+<ID>SK01</ID>
+<Name>Fierce Light</Name>
+<Base_x0020_Power>20</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>7</MP_x0020_Cost>
+<Description>Deals small Light element damage to one enemy using spear of light.</Description>
+</Skill>
+<Skill>
+<ID>SK02</ID>
+<Name>Light Call</Name>
+<Base_x0020_Power>35</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>12</MP_x0020_Cost>
+<Description>Call down light of punishment, dealing medium Light element damage to one enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK03</ID>
+<Name>Blaze Shot</Name>
+<Base_x0020_Power>60</Base_x0020_Power>
+<Element>Fire</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>18</MP_x0020_Cost>
+<Description>Shoot a Gigantic fireball to an enemy, dealing strong Fire element damage.</Description>
+</Skill>
+<Skill>
+<ID>SK04</ID>
+<Name>Thunder Blade</Name>
+<Base_x0020_Power>75</Base_x0020_Power>
+<Element>Electric</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>24</MP_x0020_Cost>
+<Description>Store the power of a lightning bolt and slash one enemy, dealing heavy Thunder element damage.</Description>
+</Skill>
+<Skill>
+<ID>SK05</ID>
+<Name>Light Advent</Name>
+<Base_x0020_Power>100</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>50</MP_x0020_Cost>
+<Description>Call down the might of heaven, deals massive Light element damage to all enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK06</ID>
+<Name>Dark Viper</Name>
+<Base_x0020_Power>130</Base_x0020_Power>
+<Element>Dark</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>45</MP_x0020_Cost>
+<Description>Use forbidden arts to channel the power of Hell&apos;s Lord, deals severe Dark element damage to one enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK07</ID>
+<Name>Rush</Name>
+<Base_x0020_Power>20</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Charge toward all enemies, dealing small Physical damage.</Description>
+</Skill>
+<Skill>
+<ID>SK08</ID>
+<Name>Fierce Wind</Name>
+<Base_x0020_Power>35</Base_x0020_Power>
+<Element>Wind</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>12</MP_x0020_Cost>
+<Description>Create a wind blade to attack the enemy. Deals medium physical damage to one enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK09</ID>
+<Name>Wind Call</Name>
+<Base_x0020_Power>50</Base_x0020_Power>
+<Element>Wind</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>18</MP_x0020_Cost>
+<Description>Call upon the divine wind to inflict strong Wind element damage to a single enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK10</ID>
+<Name>Cleaving Rush</Name>
+<Base_x0020_Power>60</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>25</MP_x0020_Cost>
+<Description>Rush all the enemy while swinging the weapon with full power. Deals strong Physical damage to all enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK11</ID>
+<Name>Severing Rush</Name>
+<Base_x0020_Power>80</Base_x0020_Power>
+<Element>Wind</Element>
+<Type>Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>35</MP_x0020_Cost>
+<Description>A Cleaving Rush with a fully powered Wind Blade, dealing heavy Wind element damage to all enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK12</ID>
+<Name>Wind Advent</Name>
+<Base_x0020_Power>100</Base_x0020_Power>
+<Element>Wind</Element>
+<Type>Magical
+Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>50</MP_x0020_Cost>
+<Description>Turns the body into divine vessel for the God of Wind, deals massive Wind element damage to all enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK13</ID>
+<Name>Great Heal</Name>
+<Base_x0020_Power>30</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>12</MP_x0020_Cost>
+<Description>Light of Restoration heals medium health to all allies.</Description>
+</Skill>
+<Skill>
+<ID>SK14</ID>
+<Name>Fierce Hydro</Name>
+<Base_x0020_Power>35</Base_x0020_Power>
+<Element>Water</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>25</MP_x0020_Cost>
+<Description>Blast the target with a concentrated stream of water, dealing medium Water Element damage.</Description>
+</Skill>
+<Skill>
+<ID>SK15</ID>
+<Name>Reincarnation</Name>
+<Base_x0020_Power>0</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>35</MP_x0020_Cost>
+<Description>A specialty magic of a Novice Holy Clerics. Revives party member with 1 HP.</Description>
+</Skill>
+<Skill>
+<ID>SK16</ID>
+<Name>Aqua Advent</Name>
+<Base_x0020_Power>100</Base_x0020_Power>
+<Element>Water</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>50</MP_x0020_Cost>
+<Description>Channel the wrath of Lord of the Sea, deals massive Water element damage to all enemies</Description>
+</Skill>
+<Skill>
+<ID>SK17</ID>
+<Name>Sacred Text</Name>
+<Base_x0020_Power>200</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>50</MP_x0020_Cost>
+<Description>A specialty magic of an Advanced Holy Clerics. Heal all party members.</Description>
+</Skill>
+<Skill>
+<ID>SK18</ID>
+<Name>True Reincarnation</Name>
+<Base_x0020_Power>0</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>60</MP_x0020_Cost>
+<Description>A specialty magic of Holy Clerics only usable by a Master in it. Revives party member with Full HP.</Description>
+</Skill>
+<Skill>
+<ID>SK19</ID>
+<Name> Bite</Name>
+<Base_x0020_Power>15</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>5</MP_x0020_Cost>
+<Description>Bite one enemy using rotten teeth.</Description>
+</Skill>
+<Skill>
+<ID>SK20</ID>
+<Name>Ghastly Wail</Name>
+<Base_x0020_Power>10</Base_x0020_Power>
+<Element>Dark</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>4</MP_x0020_Cost>
+<Description>Screech very loudly to unbalace the enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK21</ID>
+<Name>Gale Cut</Name>
+<Base_x0020_Power>15</Base_x0020_Power>
+<Element>Wind</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>8</MP_x0020_Cost>
+<Description>Slice apart the enemies with the power of wind.</Description>
+</Skill>
+<Skill>
+<ID>SK22</ID>
+<Name>Lighning Pounce</Name>
+<Base_x0020_Power>30</Base_x0020_Power>
+<Element>Electric</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Channel electricity around your body and tackle the enemy with full might.</Description>
+</Skill>
+<Skill>
+<ID>SK23</ID>
+<Name>Mad Rampage</Name>
+<Base_x0020_Power>45</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>25</MP_x0020_Cost>
+<Description>Rampage wildly around the battlefield. Deals damage to all enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK24</ID>
+<Name>Decaying Breath</Name>
+<Base_x0020_Power>25</Base_x0020_Power>
+<Element>Dark</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>20</MP_x0020_Cost>
+<Description>Spat a breath so foul it melts everything it touches.</Description>
+</Skill>
+<Skill>
+<ID>SK25</ID>
+<Name>Holy Purge</Name>
+<Base_x0020_Power>45</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>25</MP_x0020_Cost>
+<Description>Purge all enemies with spears of light.</Description>
+</Skill>
+<Skill>
+<ID>SK26</ID>
+<Name> Radiance</Name>
+<Base_x0020_Power>60</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>20</MP_x0020_Cost>
+<Description>Focus your body&apos;s radiant glow to one enemy to inflict Light element damage.</Description>
+</Skill>
+<Skill>
+<ID>SK27</ID>
+<Name>Executioner</Name>
+<Base_x0020_Power>90</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>40</MP_x0020_Cost>
+<Description>Deals heavy damage with an axe.</Description>
+</Skill>
+<Skill>
+<ID>SK28</ID>
+<Name>Giga Blaze</Name>
+<Base_x0020_Power>80</Base_x0020_Power>
+<Element>Fire</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>15</MP_x0020_Cost>
+<Description>Create a thousand degree flame and focus it on one enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK29</ID>
+<Name>Hailstorm</Name>
+<Base_x0020_Power>70</Base_x0020_Power>
+<Element>Water</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>20</MP_x0020_Cost>
+<Description>Call a hailstorm to damage all of the unsuspecting enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK30</ID>
+<Name>Hellfire Brimstone</Name>
+<Base_x0020_Power>100</Base_x0020_Power>
+<Element>Fire</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>55</MP_x0020_Cost>
+<Description>Manifest the flames of purgatory to the world.</Description>
+</Skill>
+<Skill>
+<ID>SK31</ID>
+<Name>Blade of Judgement</Name>
+<Base_x0020_Power>90</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Punish the heretics with the Blade of Judgement.</Description>
+</Skill>
+<Skill>
+<ID>SK32</ID>
+<Name>Ashuria Strike</Name>
+<Base_x0020_Power>120</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Focus all sense and power to deal one deadly strike to one enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK33</ID>
+<Name>Frenzy Slash</Name>
+<Base_x0020_Power>85</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Mad but controlled rampage around battlefield.</Description>
+</Skill>
+<Skill>
+<ID>SK34</ID>
+<Name>Dark Penitence</Name>
+<Base_x0020_Power>100</Base_x0020_Power>
+<Element>Dark</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Banish the enemy into the void beyond.</Description>
+</Skill>
+<Skill>
+<ID>SK35</ID>
+<Name>Ritual of the Damned</Name>
+<Base_x0020_Power>85</Base_x0020_Power>
+<Element>Dark</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Sacrifice the enemies with a dark forbidden ritual.</Description>
+</Skill>
+<Skill>
+<ID>SK36</ID>
+<Name>Fount of Blood</Name>
+<Base_x0020_Power>85</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Enchant the weapon with strongest reinfrcement spell and let it loose upon the enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK37</ID>
+<Name>Severing Flash</Name>
+<Base_x0020_Power>75</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Sever the enemies with Blades of Light.</Description>
+</Skill>
+<Skill>
+<ID>SK38</ID>
+<Name>Heavy Metal Strike</Name>
+<Base_x0020_Power>90</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Use the sword&apos;s weight and centrifugal force to deal devastating damage.</Description>
+</Skill>
+<Skill>
+<ID>SK39</ID>
+<Name>Sword Hell</Name>
+<Base_x0020_Power>75</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Spin towards the enemy to slash them to bits.</Description>
+</Skill>
+<Skill>
+<ID>SK40</ID>
+<Name>Unholy Reaper</Name>
+<Base_x0020_Power>100</Base_x0020_Power>
+<Element>Dark</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Summon the reaper to deal dark damage to all enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK41</ID>
+<Name>Dark Meteor</Name>
+<Base_x0020_Power>120</Base_x0020_Power>
+<Element>Fire</Element>
+<Type>Magical</Type>
+<Target>All</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Call down a meteor and slam it to the enemies.</Description>
+</Skill>
+<Skill>
+<ID>SK42</ID>
+<Name>Overlord&apos;s Wrath</Name>
+<Base_x0020_Power>200</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>10</MP_x0020_Cost>
+<Description>Drown in rage and let it all loose upon an unfortunate soul.</Description>
+</Skill>
+<Skill>
+<ID>SK43</ID>
+<Name>Break Slash</Name>
+<Base_x0020_Power>20</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>5</MP_x0020_Cost>
+<Description>Full-Powered slash to one enemy, dealing small Physical damage</Description>
+</Skill>
+<Skill>
+<ID>SK44</ID>
+<Name>First Aid</Name>
+<Base_x0020_Power>20</Base_x0020_Power>
+<Element>Light</Element>
+<Type>Magical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>5</MP_x0020_Cost>
+<Description>Beam made purely out of raw mana, dealing small Light element damage to one enemy.</Description>
+</Skill>
+<Skill>
+<ID>SK45</ID>
+<Name>Multi Thrust</Name>
+<Base_x0020_Power>20</Base_x0020_Power>
+<Element>Neutral</Element>
+<Type>Physical</Type>
+<Target>Single</Target>
+<MP_x0020_Cost>5</MP_x0020_Cost>
+<Description>Thrust multiple times with the lance, dealing small Physical damage to one enemy.</Description>
+</Skill>
+</dataroot>

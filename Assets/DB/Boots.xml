@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Boots.xsd" generated="2014-11-30T22:16:24">
+<Boots>
+<ID>BT01</ID>
+<Name>Boots</Name>
+<Buy_x0020_Price>1000</Buy_x0020_Price>
+<Sell_x0020_Price>500</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>5</AGI>
+<ACC>0</ACC>
+<Description>An ordinary Boots</Description>
+</Boots>
+<Boots>
+<ID>BT02</ID>
+<Name>Winged Boots</Name>
+<Buy_x0020_Price>2000</Buy_x0020_Price>
+<Sell_x0020_Price>1000</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>10</AGI>
+<ACC>0</ACC>
+<Description>A boots with enchanted wings to move faster</Description>
+</Boots>
+<Boots>
+<ID>BT03</ID>
+<Name>Mach-Speed Boots</Name>
+<Buy_x0020_Price>3000</Buy_x0020_Price>
+<Sell_x0020_Price>1500</Sell_x0020_Price>
+<STR>0</STR>
+<MAG>0</MAG>
+<END>0</END>
+<AGI>20</AGI>
+<ACC>0</ACC>
+<Description>A limited product boots that made you faster than sound</Description>
+</Boots>
+</dataroot>
